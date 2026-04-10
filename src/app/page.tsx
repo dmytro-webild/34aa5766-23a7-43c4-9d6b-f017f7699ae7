@@ -63,15 +63,15 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-techno-background-with-connecting-dots-lines_1048-5771.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-techno-background-with-connecting-dots-lines_1048-5771.jpg?_wi=1",
           imageAlt: "Digital connectivity platform",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/panoramic-view-dubai-city-illuminated-neon-spectrum_23-2151305287.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/panoramic-view-dubai-city-illuminated-neon-spectrum_23-2151305287.jpg?_wi=1",
           imageAlt: "Network nodes visualization",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/hand-holding-smartphone-with-blank-screen_9975-32787.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/hand-holding-smartphone-with-blank-screen_9975-32787.jpg?_wi=1",
           imageAlt: "App interface preview",
         },
         {
@@ -118,7 +118,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-techno-background-with-connecting-dots-lines_1048-5771.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-techno-background-with-connecting-dots-lines_1048-5771.jpg?_wi=2",
           imageAlt: "abstract tech dark background blue glow",
         },
         {
@@ -143,7 +143,7 @@ export default function LandingPage() {
             },
           ],
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-photo/panoramic-view-dubai-city-illuminated-neon-spectrum_23-2151305287.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/panoramic-view-dubai-city-illuminated-neon-spectrum_23-2151305287.jpg?_wi=2",
           imageAlt: "abstract digital connectivity network dark",
         },
         {
@@ -168,7 +168,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/hand-holding-smartphone-with-blank-screen_9975-32787.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/hand-holding-smartphone-with-blank-screen_9975-32787.jpg?_wi=2",
           imageAlt: "mobile application feed mockup dark",
         },
       ]}
